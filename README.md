@@ -29,7 +29,7 @@ A real-time sign language detection system that translates hand signs into text 
 
 1. Clone the repository:
 
-git clone https://github.com/Yash3561/Sign-Language-to-audio
+git clone https://github.com/Yash3561/Hand_Sign_to_Audio
 cd Hand_Sign_to_Audio
 
 
