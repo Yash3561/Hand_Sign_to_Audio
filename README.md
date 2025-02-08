@@ -100,11 +100,6 @@ python classifier_w_audio_output.py
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-
-## 📝 License
-
-Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - MediaPipe team for hand tracking
